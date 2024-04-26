@@ -1,3 +1,4 @@
 Hello
 This is a test file
 This is just
+This is the new line
